@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Collections;
 
-class Solution {
+class Sorting3 {
    public static int solution(int[] citations) {
         Arrays.sort(citations);
 
