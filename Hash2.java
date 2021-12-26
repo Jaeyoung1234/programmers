@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class PhoneBook {
+class Hash2 {
     public static boolean solution(String[] phone_book) {
 
         Arrays.sort(phone_book);
